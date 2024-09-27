@@ -1,0 +1,14 @@
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="45" height="45" />
+ Hi, I'm Uttam</h1>
+<p align="center">
+  <em>
+    <b>Computer Science student and a tech enthusiast</b>
+  </em>
+</p>
+
+### 📬 Contact
+
+- **Email**: [uttamkn15@gmail.com](mailto:uttamkn15@gmail.com)
+- **Discord**: draco156
+
+Feel free to reach out if you have any questions or just want to connect!
