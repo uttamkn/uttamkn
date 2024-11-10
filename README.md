@@ -8,5 +8,3 @@
 
 - **Email**: [uttamkn15@gmail.com](mailto:uttamkn15@gmail.com)
 - **Discord**: draco156
-
-Feel free to reach out if you have any questions or just want to connect!
